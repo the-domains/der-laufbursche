@@ -1,23 +1,35 @@
-typography_spectrum: 0.3098120300564915
-color:
-  brandStrength: 0.6825081806164235
-  lightness: 0.47219169815070927
-  saturation: 0.6513532118406147
-  rhythmicContrast: 0.005173953715711832
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-opengraph:
-  type: 'https://www.facebook.com/lb.satiremagazin/'
-layout_spectrum: 0.01099897245876491
 author:
   name: Björn Göttlicher
   email: bjoern@goettlicher-photo.com
   url: www.goettlicher-photo.com
-name: Der Laufbursche
+title: Satire zwischen Fotokunst und Wortwitz
+opengraph:
+  type: 'https://www.facebook.com/lb.satiremagazin/'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6513532118406147
+  brandStrength: 0.6825081806164235
+  lightness: 0.4721916981507093
+  brandColors:
+    - '#FFFFFF'
+    - '#FFDD00'
+    - '#1C1C1C'
+    - '#6E6E6E'
+    - '#9A9377'
+  rhythmicContrast: 0.005173953715711832
+typography_spectrum: 0.8369176
+layout_spectrum: 0.702509
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/362db2df-7a4f-4c19-8734-5adc6e5a1c99.png
-title: Satire zwischen Fotokunst und Wortwitz
+name: Der Laufbursche
