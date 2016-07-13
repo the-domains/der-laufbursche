@@ -22,8 +22,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.lauf-bursche.com/weil-pokemon-go-es-gesagt-hat-mann-ueberfaellt-bank/
 title: Weil Pokémon Go es gesagt hat - Mann überfällt Bank
-datePublished: '2016-07-13T17:06:20.835Z'
-dateModified: '2016-07-13T16:54:58.614Z'
+datePublished: '2016-07-13T17:31:14.548Z'
+dateModified: '2016-07-13T17:12:37.683Z'
 starred: false
 sourcePath: _posts/2016-07-13-weil-pokemon-go-es-gesagt-hat-mann-uberfallt-bank.md
 inFeed: true
