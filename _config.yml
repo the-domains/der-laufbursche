@@ -18,16 +18,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.6513532118406147
-  brandStrength: 0.6825081806164235
-  lightness: 0.4721916981507093
+  saturation: 0.8906721530947834
+  brandStrength: 0.37667978066019714
+  lightness: 0.6101436675526202
   brandColors:
-    - '#FFFFFF'
-    - '#FFDD00'
-    - '#1C1C1C'
-    - '#6E6E6E'
-    - '#9A9377'
-  rhythmicContrast: 0.005173953715711832
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  rhythmicContrast: 0.9619559922721237
 typography_spectrum: 0.8369176
 layout_spectrum: 0.702509
 favicon: >-
